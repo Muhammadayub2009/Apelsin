@@ -1,2 +1,1 @@
-print('Hello world')
-print('Salom dunyo')
+print("5 + 5")
